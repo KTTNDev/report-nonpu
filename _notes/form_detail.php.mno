@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_derid" value="name:der_id;datatype:int,name:der_name;datatype:string,name:datesave;datatype:timestamp" />
+	<infoitem key="UD_lastid" value="name:pd_number;datatype:int,name:der_id;datatype:int,name:der_name;datatype:string,name:pd_detail;datatype:string,name:pd_date;datatype:date,name:pd_intail;datatype:string,name:pd_name;datatype:string,name:pd_lname;datatype:string,name:pd_position;datatype:string,name:pd_tell;datatype:string,name:pd_email;datatype:string,name:st_id;datatype:int,name:datesave;datatype:timestamp" />
+	<infoitem key="UD_formdetail" value="name:pd_number;datatype:int,name:der_id;datatype:int,name:der_name;datatype:string,name:pd_detail;datatype:string,name:pd_date;datatype:date,name:pd_intail;datatype:string,name:pd_name;datatype:string,name:pd_lname;datatype:string,name:pd_position;datatype:string,name:pd_tell;datatype:string,name:pd_email;datatype:string,name:st_id;datatype:int,name:datesave;datatype:timestamp" />
+</info>
